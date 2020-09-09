@@ -1,9 +1,10 @@
 # Managed Kubernetes on DigitalOcean Cloud
 
 ## Setup
- - `terraform inti`
+ - `terraform init`
  - `terraform apply`
 
+### DigitalOcean help 
 Latest Kubernetes version
 `doctl kubernetes options versions`
 
